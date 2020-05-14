@@ -1,6 +1,6 @@
 # Jordan-Calculator
 # Android Studio Calculator Application
-##### This is an android scientific calculator application.
+## This is an android scientific calculator application.
 
 * This application can be viewed and edited using Android Studio
 
@@ -10,7 +10,7 @@
 
 [App Video](https://www.youtube.com/watch?v=NgA6zunv1iE)
 
-###### Here is a screenshot of the Application in use.
+### Here is a screenshot of the Application in use.
 
 ![Calculator Image](https://github.com/jtgoodman/Jordan-Calculator/blob/master/calculator.png.PNG)
 
