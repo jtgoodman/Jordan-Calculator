@@ -4,7 +4,7 @@
 
 ####### Here is a screenshot of the Application in use.
 
-![Calculator Image](\Users\jtgoo\OneDrive\Desktop\Senior project portfolio\calculator.png)
+![Calculator Image](https://github.com/jtgoodman/Jordan-Calculator/blob/master/calculator.png.PNG)
 
 ##### If you are using an Android device you can download the app from this link below.
 
