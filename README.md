@@ -2,9 +2,9 @@
 # Android Studio Calculator Application
 ##### This is an android scientific calculator application.
 
-###### __ This application can be viewed and edited using Android Studio __
+###### * This application can be viewed and edited using Android Studio
 
-###### __ The link below will show you a video of the application in use __
+###### * The link below will show you a video of the application in use
 
 [App Video](https://www.youtube.com/watch?v=NgA6zunv1iE)
 
