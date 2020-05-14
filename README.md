@@ -7,5 +7,5 @@
 [Apk Download](https://drive.google.com/open?id=1S_CejSdnaEr0Pw9qc1xFuHKVP9jEQ5CS)
 ###Instructions for Downloading app
 1.Before you can install it on your phone you will need to make sure that third-party apps are allowed on your device.
-1.Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
-1.Once it's downloaded, open Downloads, tap on the APK file, and tap Yes when prompted.
+2.Go to Menu > Settings > Security > and check Unknown Sources to allow your phone to install apps from sources other than the Google Play Store.
+3.Once it's downloaded, open Downloads, tap on the APK file, and tap Yes when prompted.
