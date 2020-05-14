@@ -2,11 +2,17 @@
 # Android Studio Calculator Application
 ##### This is an android scientific calculator application.
 
-####### Here is a screenshot of the Application in use.
+###### This application can be viewed and edited using Android Studio
+
+###### The link below will show you a video of the application in use
+
+![App Video] (https://www.youtube.com/watch?v=NgA6zunv1iE)
+
+###### Here is a screenshot of the Application in use.
 
 ![Calculator Image](https://github.com/jtgoodman/Jordan-Calculator/blob/master/calculator.png.PNG)
 
-##### If you are using an Android device you can download the app from this link below.
+##### If you are using an Android device you can download the app to your phone from this link below.
 
 [Apk Download](https://drive.google.com/open?id=1S_CejSdnaEr0Pw9qc1xFuHKVP9jEQ5CS)
 
